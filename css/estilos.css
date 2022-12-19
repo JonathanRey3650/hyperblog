@@ -2,7 +2,7 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: courier;
+    font-family: "Arial";
 }
 #container
 {
@@ -10,6 +10,7 @@ body
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
+    margin: 0 auto;
 }
 #container h1
 {
